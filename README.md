@@ -34,6 +34,6 @@ To use this script, simply follow the steps below:
 ```bash
 git clone https://github.com/vampiresquad/Termux-Setup.git
 cd Termux-Setup
-chmod +x setup.ssh
+chmod +x setup.sh
 ./setup.sh
 ```
